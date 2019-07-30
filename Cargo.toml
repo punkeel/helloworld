@@ -1,0 +1,9 @@
+[package]
+name = "rusthello"
+version = "0.1.0"
+authors = ["PunKeel <punkeel@me.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.3.14"
+mc-varint = "0.1.1"
